@@ -22,10 +22,10 @@ class LogoScene extends Phaser.Scene {
     }
 
     preload() {
-        this.load.image('logo', './assets/RubberDuckyTitle.png');
-        this.load.image('ducky', './assets/PixelDucky.png');
+        this.load.image('logo', 'assets/RubberDuckyTitle.png');
+        this.load.image('ducky', 'assets/PixelDucky.png');
         
-        this.load.audio('squeaky', './assets/rubberduck_edited.mp3');
+        this.load.audio('squeaky', 'assets/rubberduck_edited.mp3');
         console.log('Images and audio loaded, LogoScene');
     }
 
@@ -110,7 +110,7 @@ class Title extends Phaser.Scene {
     }
 
     preload() {
-        this.load.audio('swoosh', './assets/Swoosh_Edited.mp3');
+        this.load.audio('swoosh', 'assets/Swoosh_Edited.mp3');
         console.log('Audio loaded, TitleScene');
     }
 
@@ -152,9 +152,9 @@ class Menu extends Phaser.Scene {
     }
 
     preload() {
-        this.load.image('mainScreen', './assets/MainScreen.png');
+        this.load.image('mainScreen', 'assets/MainScreen.png');
         
-        this.load.audio('wildwest', './assets/WildWest_Edited.mp3');
+        this.load.audio('wildwest', 'assets/WildWest_Edited.mp3');
         console.log('Images and audio loaded, MenuScene');
     }
 
