@@ -11,10 +11,14 @@ Key requirements for this assignment
 - **1+ fading scene transition**: Fade out transition from logo scene to title scene, fade out transition from title scene to main menu scene, fade in transition into main menu scene
 - **1+ object motion animation**: All transitions created using tweens
 
-Sound/Music Credits:
+**Sound/Music Credits:**
 Rubber Ducky Sound Effect - (https://www.sfxbuzz.com/download/9-cartoon-sound-effects/133-rubber-duck-sound-effect)
+
 Swoosh Sound Effect - https://mixkit.co/free-sound-effects/swoosh/
+
 Wild West Song - by ZitronSound (https://bandcamp.com/download?id=572907507&ts=1682836648.2746558719&tsig=bb9279140f8477b2c90b50fbeaed3aaf&type=track)
 
-All assets were created by Aaron Bruno with the exception of the sound/music being edited in Audacity.
-The logo, rubber ducky art, and main menu art were created in Adobe Photoshop.
+**Asset Creations:**
+All assets were created by Aaron Bruno with the exception of the sound/music being edited in Audacity. The sound and music files had their treble and bass adjusted, as well as having their pitch changed so that I got the sound I desired.
+
+The "Rubber Ducky Entertainment" logo text, rubber ducky art, and main menu art were created in Adobe Photoshop.
